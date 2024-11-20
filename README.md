@@ -23,20 +23,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Uma historia sobre uma mulher de 41 anos que decide mudar de área profissional e se apaixona pela a área de tecnologia.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+IA utilizada foi a story.com e chatGpt.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Eu usei o chatgpt para fazer o prompt de criar a história, anexei o texto gerado na IA story e criei o video, o avatar, o enrredo e tudo mais com essa ferramenta incrível.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+https://www.story.com/video/education/the-digital-odyssey-of-clara?page=2
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
 ```
+É muito gratificante ver o resultado do projeto proposto mesmo que ainda muito iniciantes, às para  mim é  fascinante.
 
 ### Exemplos e Insigths
 
